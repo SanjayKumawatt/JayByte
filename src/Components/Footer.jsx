@@ -9,7 +9,7 @@ const Footer = () => {
   // Links Data Structure for easier management
   const productLinks = [
     { name: 'Features', id: 'features' },
-    { name: 'Services', id: 'services' }, // Updated id to match Services section
+    { name: 'Services', id: 'use-cases' }, // Updated id to match Services section
     { name: 'Pricing', id: 'pricing' },
   ];
 
