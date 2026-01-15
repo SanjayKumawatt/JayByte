@@ -99,7 +99,7 @@ const About = () => {
               </h2>
               <div className="space-y-6 text-gray-600 dark:text-gray-400 leading-relaxed text-lg">
                 <p>
-                  Founded with the vision of eliminating complexity, <span className="font-semibold">Jaybyte Tech</span> enables teams to deploy production-ready AI agents for inbound calls, lead qualification, scheduling, and customer support — without complex setup or large operational overhead.
+                  Founded with the vision of eliminating complexity, <span className="font-semibold">Jaybyte Tech</span> enables teams to deploy production-ready AI agents for inbound calls, lead qualification, scheduling, and customer support - without complex setup or large operational overhead.
                 </p>
                 <p>
                   Our platform focuses on real-time AI processing, low-latency voice synthesis, and scalable cloud infrastructure to support high-quality, natural conversations at scale.

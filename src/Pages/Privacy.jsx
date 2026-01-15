@@ -204,7 +204,7 @@ const Privacy = () => {
           className="mt-12 text-center"
         >
           <p className="text-gray-500 dark:text-gray-500 text-sm mb-4">
-            Jaybyte Tech Pvt. Ltd. • IT Park, Sitapura Industrial Area, Jaipur, Rajasthan, India
+            Jaybyte Tech Pvt. Ltd. •  56 Radha Govind Naga, Agra Road, Jamdoli, Jaipur, Jaipur, Rajasthan, India, 302031.
           </p>
           <a 
             href="mailto:support@jaybyte.com" 
